@@ -1,67 +1,140 @@
-# Hi there, I'm Maria! 👋
+# Hi, I'm Maria! 👋
 
-🎓 **Management Engineering Student  (L-8)| Politecnico di Torino, Italy**
+### 🎓 Management Engineering Student | Politecnico di Torino 🇮🇹
 
-I'm a Bachelor's student in Management Engineering at Politecnico di Torino, with a strong interest in the intersection of **technology, business, and innovation**.
+I'm a Bachelor's student in **Management Engineering** at Politecnico di Torino, with a growing focus on computer science, cybersecurity, software development, and the ethical implications of emerging technologies.
 
-My academic journey has allowed me to develop skills in software development, algorithmic problem-solving, database management, and web technologies.
+My academic interests lie at the intersection of **technology, business, cybersecurity, and digital innovation**.
 
-I'm particularly interested in **cybersecurity, artificial intelligence, fintech, and digital transformation**, and I'm looking to further develop my technical and analytical skills through international academic and professional experiences.
+I enjoy combining technical problem-solving with a broader understanding of how technology affects organizations, individuals, and society.
 
-## 💻 Technical Skills
+---
 
-**Programming & Development**
-- Python
-- JavaScript
-- PHP
-- HTML & CSS
-- SQL
+## 🔍 Current Academic Focus
 
-**Software Engineering & Computer Science**
+### 🔐 Bachelor's Thesis — Cybersecurity
+Currently working on my Bachelor's thesis in **Cybersecurity**, exploring information security concepts, cybersecurity frameworks, and approaches to managing security risks.
+
+### 🐍 Advanced Python Programming
+Currently attending a second Python programming course, **Programmazione Avanzata**, further developing my skills in object-oriented programming, software architecture, and application development.
+
+The course builds on my previous experience with Python algorithms, graph theory, recursion, and database-driven applications.
+
+### 🌐 Computer Networks and the Internet
+Studying **Reti Telematiche e Internet**, focusing on computer networks, Internet communication, network protocols, and data transmission.
+
+### ⚖️ Ethics of Technology
+Studying **Etica della Tecnologia**, exploring the moral and social implications of technological innovation.
+
+I'm particularly interested in responsible technology development, algorithmic fairness, accountability, and the ethical challenges associated with artificial intelligence and automated decision-making.
+
+---
+
+## 📚 Academic Background
+
+### 🗄️ Databases — Basi di Dati
+Completed coursework in relational database systems, including:
+
+- Relational data modeling
+- SQL queries and database operations
+- Database schema design
+- Data integrity and relationships
+- Practical database management using MySQL and DBeaver
+
+### ⚙️ Programming Techniques
+Developed Python applications involving:
+
 - Object-Oriented Programming (OOP)
 - Model-View-Controller (MVC) architecture
-- Relational databases and MySQL
-- Graph algorithms, recursion, and optimization
-- Web application development
-- Git & GitHub
+- Data Access Object (DAO) pattern
+- Graph algorithms and NetworkX
+- Recursion and backtracking
+- Combinatorial optimization
+- Database integration
 
-**Tools & Environments**
-- PyCharm
-- MySQL
-- GitHub
+### 🌍 Algorithms and Democracy
+Completed **Algoritmi e Democrazia**, an interdisciplinary course exploring the relationship between algorithms, digital technologies, and democratic societies.
+
+The course strengthened my interest in the social implications of algorithmic systems, digital governance, and the interaction between technological development and democratic processes.
+
+### 💻 Web Services and Computer Networks Design
+Developed a database-driven web application using PHP, JavaScript, HTML, CSS, and MySQL.
+
+The project provided practical experience in frontend and backend integration, client-server communication, and relational database management.
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages & Web Technologies**
+
+Python · SQL · JavaScript · PHP · HTML · CSS
+
+**Software Engineering & Algorithms**
+
+Object-Oriented Programming · MVC · DAO · Graph Theory · Recursion · Backtracking · Optimization
+
+**Frameworks & Libraries**
+
+Flet · NetworkX
+
+**Databases & Development Tools**
+
+MySQL · DBeaver · PyCharm · XAMPP · MAMP · Git · GitHub
+
+---
 
 ## 🚀 Featured Projects
 
 ### ⚙️ [Programming Techniques](https://github.com/mariacerrii/Programming-Techniques)
 
-A collection of 25 academic Python projects developed at Politecnico di Torino, covering object-oriented programming, database integration, graph algorithms, recursion, and optimization.
+A collection of **25 academic Python projects** developed at Politecnico di Torino.
+
+**Focus:** Object-oriented programming, graph algorithms, relational databases, recursion, and optimization.
 
 ### 🐈 Cat Shelter Management — Web Application
 
-An academic web application developed for the *Progettazione di servizi web e reti di calcolatori* course (8 ECTS) at Politecnico di Torino.
+An academic web development project designed to support cat shelter operations, including visit reservations, user authentication, and volunteer-related functionality.
 
 **Technologies:** PHP, JavaScript, HTML, CSS, MySQL.
 
-The project includes cat management, visit reservations, user authentication, and volunteer-related functionality.
+**Academic Evaluation:** 24/30
 
-## 📚 Currently Exploring
+### 🐍 Advanced Programming
+*Coursework in progress*
 
-- Cybersecurity and information security
-- Artificial intelligence and its practical applications
-- Financial technology and digital innovation
-- Software development and data-driven problem-solving
+Further development of Python programming skills through laboratory assignments and software development exercises.
 
-## 🎯 Academic & Professional Goals
-
-I'm interested in pursuing an international Master's degree and exploring opportunities that combine engineering, technology, and business.
-
-My goal is to continue strengthening my technical background while developing a broader understanding of how digital technologies can support innovation and organizational decision-making.
-
-## 📫 Connect With Me
-
-- **GitHub:** [mariacerrii](https://github.com/mariacerrii)
-- **LinkedIn:** Add LinkedIn profile URL
+A dedicated project portfolio will be organized after completion of the course.
 
 ---
 
-*Always learning, building, and exploring new technologies.*
+## 🌱 Areas of Interest
+
+- Cybersecurity and information security
+- Artificial intelligence and responsible AI
+- Fintech and digital innovation
+- Software engineering
+- Data-driven decision-making
+- Technology ethics and algorithmic accountability
+- Digital transformation
+
+---
+
+## 🎯 Looking Ahead
+
+I'm interested in pursuing an **international Master's degree** and exploring academic and professional opportunities that combine technology, engineering, and business.
+
+My goal is to strengthen my technical expertise while developing a multidisciplinary perspective on technological innovation, cybersecurity, and the responsible use of digital systems.
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: Maria Cerri
+
+GitHub: mariacerrii
+
+---
+
+*Learning, building, and exploring the intersection of technology and society.*
