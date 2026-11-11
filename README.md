@@ -86,19 +86,20 @@ MySQL · DBeaver · PyCharm · XAMPP · MAMP · Git · GitHub
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 ### ⚙️ [Programming Techniques](https://github.com/mariacerrii/Programming-Techniques)
 
-A collection of **25 academic Python projects** developed at Politecnico di Torino.
+A collection of 25 academic Python projects developed at Politecnico di Torino.
 
-**Focus:** Object-oriented programming, graph algorithms, relational databases, recursion, and optimization.
+**Technologies:** Python, SQL, MySQL, NetworkX.
 
-### 🐈 Cat Shelter Management — Web Application
+### 🐈 [Cat Shelter Management — Web Application](https://github.com/mariacerrii/Cat-Shelter-Web-Application)
 
-An academic web development project designed to support cat shelter operations, including visit reservations, user authentication, and volunteer-related functionality.
+An academic web application developed for the Web Services and Computer Networks Design course at Politecnico di Torino.
 
 **Technologies:** PHP, JavaScript, HTML, CSS, MySQL.
 
-**Academic Evaluation:** 24/30
 
 ### 🐍 Advanced Programming
 *Coursework in progress*
