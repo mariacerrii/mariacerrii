@@ -131,9 +131,9 @@ My goal is to strengthen my technical expertise while developing a multidiscipli
 
 ## 📫 Connect With Me
 
-GitHub: mariacerrii
+- 💼 **LinkedIn:** [Maria Cerri](https://www.linkedin.com/in/maria-cerri/)
+- 💻 **GitHub:** [mariacerrii](https://github.com/mariacerrii)
 
-LinkedIn: www.linkedin.com/in/maria-cerri
 
 ---
 
