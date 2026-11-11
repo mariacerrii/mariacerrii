@@ -1,6 +1,6 @@
 # Hi, I'm Maria! 👋
 
-### 🎓 Management Engineering Student | Politecnico di Torino 🇮🇹
+### 🎓 Management Engineering Student (L-8) | Politecnico di Torino 🇮🇹
 
 I'm a Bachelor's student in **Management Engineering** at Politecnico di Torino, with a growing focus on computer science, cybersecurity, software development, and the ethical implications of emerging technologies.
 
