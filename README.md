@@ -9,6 +9,21 @@ My academic interests lie at the intersection of **technology, business, cyberse
 I enjoy combining technical problem-solving with a broader understanding of how technology affects organizations, individuals, and society.
 
 ---
+## 🚀 Featured Projects
+
+### ⚙️ [Programming Techniques](https://github.com/mariacerrii/Programming-Techniques)
+
+A collection of 25 academic Python projects developed at Politecnico di Torino.
+
+**Technologies:** Python, SQL, MySQL, NetworkX.
+
+### 🐈 [Cat Shelter Management — Web Application](https://github.com/mariacerrii/Cat-Shelter-Web-Application)
+
+An academic web application developed for the Web Services and Computer Networks Design course at Politecnico di Torino.
+
+**Technologies:** PHP, JavaScript, HTML, CSS, MySQL.
+
+---
 
 ## 🔍 Current Academic Focus
 
@@ -83,21 +98,6 @@ Flet · NetworkX
 MySQL · DBeaver · PyCharm · XAMPP · MAMP · Git · GitHub
 
 ---
-
-
-## 🚀 Featured Projects
-
-### ⚙️ [Programming Techniques](https://github.com/mariacerrii/Programming-Techniques)
-
-A collection of 25 academic Python projects developed at Politecnico di Torino.
-
-**Technologies:** Python, SQL, MySQL, NetworkX.
-
-### 🐈 [Cat Shelter Management — Web Application](https://github.com/mariacerrii/Cat-Shelter-Web-Application)
-
-An academic web application developed for the Web Services and Computer Networks Design course at Politecnico di Torino.
-
-**Technologies:** PHP, JavaScript, HTML, CSS, MySQL.
 
 
 ### 🐍 Advanced Programming
