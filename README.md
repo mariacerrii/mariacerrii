@@ -84,7 +84,6 @@ MySQL · DBeaver · PyCharm · XAMPP · MAMP · Git · GitHub
 
 ---
 
-## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
 
